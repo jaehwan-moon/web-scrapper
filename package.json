@@ -7,7 +7,6 @@
     "cheerio": "^0.20.0",
     "json2xls": "^0.1.2",
     "sync-request": "^3.0.1",
-    "webshot": "^0.18.0"
   },
   "devDependencies": {},
   "scripts": {
